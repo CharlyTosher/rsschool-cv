@@ -1,5 +1,6 @@
 # Vasiliy Konopatsky
 
+![photo](https://postimg.cc/kBHvtnS9)
 ## Contacts
 
 * Location: Moscow, Russia
