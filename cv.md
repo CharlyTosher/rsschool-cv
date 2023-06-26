@@ -2,12 +2,12 @@
 
 ## Contacts
 
-Location: Moscow, Russia
-Phone: +7(901)005-33-61
-Email: piratgameplanet@yandex.ru
-Telegram: @CharlyTosher
-Discord: charlytosher
-GitHub: CharlyTosher
+* Location: Moscow, Russia
+* Phone: +7(901)005-33-61
+* Email: piratgameplanet@yandex.ru
+* Telegram: @CharlyTosher
+* Discord: charlytosher
+* GitHub: CharlyTosher
 
 ## About Me
 
@@ -38,7 +38,7 @@ console.log(-num);
 * Site administrator (content maker)
 * SMM
 * SEO Copywriter
-===
+
 ## Languages
 * Russian (native)
 * Belorussian (native)
